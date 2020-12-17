@@ -10,7 +10,8 @@
     <Company>Authorize.Net</Company>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Description>Use this SDK to integrate with the Authorize.Net APIs for Payment Transactions, Recurring Billing and Customer Payment Profiles.</Description>
+    <Description>Use this SDK to integrate with the Authorize.Net APIs for Payment Transactions, Recurring Billing and Customer Payment Profiles.
+Built using a fork of the Authorize.Net repository at : https://github.com/TrueITLLC/dotnet-core-sdk-beta</Description>
     <Copyright>Authorize.Net</Copyright>
   </PropertyGroup>
 
